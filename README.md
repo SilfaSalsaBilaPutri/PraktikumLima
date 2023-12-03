@@ -19,3 +19,6 @@
 ![gambar](Praktek3.png)
 ![gambar](Praktek4.png)
 ![gambar](Praktek5.png)
+
+# FLOWCHART
+![gambar](flowchart.png)
